@@ -6,7 +6,9 @@
  - Last update: February 15, 2023
 
 Paper: **Sparse Convolutional Neural Networks for particle classification in ProtoDUNE-SP events** 
+
 Proceedings of the conference Advanced Computing and Analysis Techniques in Physics Research (Virtual ACAT 2021, Daejeon, South Korea)
+
 Based on previous work from Facebook AI research: Benjamin Graham and Laurens van der Maaten. “**Submanifold Sparse Convolutional  Networks**”. In:  CoRR  abs/1706.01307 (2017). [arXiv:  1706.01307](http://arxiv.org/abs/1706.01307)
 
 **Technology:** `Deep Learning`, `Computer Vision`, `PyTorch`, `Physics research`
